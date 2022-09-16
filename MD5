@@ -1,10 +1,10 @@
-cfd6d86484e77e1d63450b5065025b2d *DESCRIPTION
-b78528b14a3fb095f1a0c64e07a9f7b6 *NAMESPACE
-fd4167ea04487591a2b62e8fefb14e61 *NEWS.md
-3fb59bea01696619a53cb15f4c85180e *R/NestedMenu.R
-b159b40447d1ab04f7327cdbd3bfc5d9 *README.md
-2cf195fffc635aa5c8e08ba046217847 *inst/htmlwidgets/NestedMenu.js
-d40dfcfb3942706900775de9e71a6767 *inst/htmlwidgets/NestedMenu.yaml
+df9f903c10fe0a054af29a430149c100 *DESCRIPTION
+c6313dd8d708798192347479dd00c3f2 *NAMESPACE
+00bbd01273b3b61614548f9eb19356a6 *NEWS.md
+8402f14051b7edad62547ead241cd5cd *R/NestedMenu.R
+3ec0cfdf7248b2ebc2d3994aeafc37ed *README.md
+e90e001bb91d28ac394724b93918bd96 *inst/htmlwidgets/NestedMenu.js
+15de308eafc95c977d6b452b952b8c34 *inst/htmlwidgets/NestedMenu.yaml
 c230ebe3364bdc36bb8397139738a0eb *inst/htmlwidgets/lib/jquery-contextmenu/dist/font/context-menu-icons.eot
 c665e8d6f2a791ab4cab6b67e393797d *inst/htmlwidgets/lib/jquery-contextmenu/dist/font/context-menu-icons.ttf
 7106539b96f1e8ff8a435742378daf36 *inst/htmlwidgets/lib/jquery-contextmenu/dist/font/context-menu-icons.woff
@@ -13,5 +13,5 @@ cd2cccd84d386b98d539ee7262db9167 *inst/htmlwidgets/lib/jquery-contextmenu/dist/j
 18a4f231a2778801648b4b860c69ee60 *inst/htmlwidgets/lib/jquery-contextmenu/dist/jquery.contextMenu.min.js
 4074c8e711f88a49bfe6269a0c521c01 *inst/htmlwidgets/lib/jquery-contextmenu/dist/jquery.contextMenu.min.js.map
 222abfa31efbad5589f76dfca00517e5 *inst/htmlwidgets/lib/jquery-contextmenu/dist/jquery.ui.position.min.js
-e1eb638c68dd12e4920e04667ecfd389 *man/NestedMenu-shiny.Rd
-53b242de6bfde7c1662dd0b9f4f3ba21 *man/NestedMenu.Rd
+257d67c446769bcad75d3ded88a92b40 *man/NestedMenu-shiny.Rd
+7e9e040d17a4c13451d3ab87b21a79a2 *man/NestedMenu.Rd
